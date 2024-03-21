@@ -1,0 +1,32 @@
+
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÈ‡€
+o
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÈ‡€
+r
+java:S1192"WDefine a constant instead of duplicating this literal "data insert unsuccess." 4 times.(ÂŠô£ÿÿÿÿÿ
+‹
+java:S13193"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÏÕÿÿÿÿÿ
+‹
+java:S1319J"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(»Ï¼Éÿÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸•á"
+j
+java:S20958"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àÃÕÿüÿÿÿÿ
+j
+java:S2095s"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(êá £úÿÿÿÿ
+j
+java:S2095N"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àÃÕÿüÿÿÿÿ
+j
+java:S2095`"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(êá £úÿÿÿÿ
+j
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(êá £úÿÿÿÿ
+@
+java:S3457"%String contains no format specifiers.(æá¦Şùÿÿÿÿ
+?
+java:S2115")Add password protection to this database.(»¥ÇÁ
+E	java:S106"+Replace this use of System.out by a logger.(ÂŠô£ÿÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ÂŠô£ÿÿÿÿÿ
+E	java:S106g"+Replace this use of System.out by a logger.(ÂŠô£ÿÿÿÿÿ
+E	java:S106x"+Replace this use of System.out by a logger.(ÂŠô£ÿÿÿÿÿ
+F
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
